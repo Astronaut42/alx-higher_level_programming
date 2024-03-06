@@ -1,6 +1,6 @@
 #!/bin/bash
 
-$PYFILE = "first_try.py"
+$PYFILE = "main.py"
 
 
 if [ ! -f $PYFILE ]; then
